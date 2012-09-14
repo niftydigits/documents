@@ -1,4 +1,4 @@
-# Sublime Shortcuts
+# Sublime Package Shortcuts
 
 Here I'm maintaining a list of sublime shortcuts (for the Mac) from various packages I find really handy.
 
